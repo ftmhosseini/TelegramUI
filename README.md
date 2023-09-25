@@ -1,6 +1,18 @@
 # telegram
 
-A new Flutter project.
+This Flutter project is a sample chat application inspired by Telegram. It showcases a user interface similar to Telegram's menu and displays sample chat conversations. You can use this app as a starting point to build your own messaging app or connect it to a database or web server to display real chat data and information.
+
+## Features
+
+- User interface inspired by Telegram.
+- Sample chat conversations for demonstration.
+- Flexibility to connect to a database or web server for real data.
+- Customizable and extensible design.
+
+## Technologies Used
+
+- Dart
+- Flutter
 
 ## Getting Started
 
